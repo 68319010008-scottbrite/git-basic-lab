@@ -1,1 +1,3 @@
 My Name
+Name : Student 
+Department : IT 
